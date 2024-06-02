@@ -1,0 +1,3 @@
+Needed packages:
+Install starship and do:
+sudo pacman -S kitty neofetch thunar waybar river pavucontrol gtk-4 btop hyprland pulseaudio rofi paru zsh
